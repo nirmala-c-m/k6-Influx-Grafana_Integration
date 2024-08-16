@@ -1,0 +1,14 @@
+{
+  "name": "k6-influx-grafana-integration",
+  "version": "1.0.0",
+  "description": "Performance testing with k6",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+  },
+  "author": "nirmala",
+  "license": "ISC",
+  "dependencies": {
+    "k6": "^0.43.0"
+  }
+}
