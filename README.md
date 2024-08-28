@@ -15,7 +15,7 @@ The k6 script provided simulates a user journey through a web application, while
  
 ## Folder Structure
 
-https://github.com/nirmala-c-m/k6-Influx-Grafana_Integration/blob/master/Screenshot%20from%202024-08-28%2016-31-17.png
+![Alt text](https://github.com/nirmala-c-m/k6-Influx-Grafana_Integration/blob/master/Screenshot%20from%202024-08-28%2016-31-17.png)
  
 ## Key k6 Features Used
 * **Groups:** The user journey is divided into multiple groups for better metric collection and analysis.
